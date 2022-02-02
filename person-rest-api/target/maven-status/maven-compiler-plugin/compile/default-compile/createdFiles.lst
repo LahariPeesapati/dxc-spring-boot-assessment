@@ -1,0 +1,4 @@
+com\dxc\personrestapi\PersonRestApiApplication.class
+com\dxc\model\Person.class
+com\dxc\controller\PersonController.class
+com\repository\PersonRepository.class
